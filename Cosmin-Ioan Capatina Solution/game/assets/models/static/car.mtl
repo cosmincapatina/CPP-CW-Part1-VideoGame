@@ -1,0 +1,23 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl slot_car
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10603_slot_car_blue_SG_v1_diffuse.jpg
+
+newmtl slot_car_glass
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.252052 0.538729 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 0.500000
+illum 1
